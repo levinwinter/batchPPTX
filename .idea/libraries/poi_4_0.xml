@@ -2,11 +2,15 @@
   <library name="poi-4.0">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../poi-4.0.1" />
+      <root url="file://$PROJECT_DIR$/../../poi-4.0.1/ooxml-lib" />
+      <root url="file://$PROJECT_DIR$/../../poi-4.0.1/lib" />
     </CLASSES>
     <JAVADOC>
       <root url="file://$PROJECT_DIR$/../../poi-4.0.1/docs/apidocs/dev" />
     </JAVADOC>
     <SOURCES />
     <jarDirectory url="file://$PROJECT_DIR$/../../poi-4.0.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../poi-4.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../poi-4.0.1/ooxml-lib" recursive="false" />
   </library>
 </component>
