@@ -1,4 +1,4 @@
-package sample;
+package de.levinwinter;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
