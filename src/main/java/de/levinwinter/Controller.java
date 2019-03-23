@@ -1,6 +1,8 @@
 package de.levinwinter;
 
-import de.levinwinter.structure.*;
+import de.levinwinter.structure.Course;
+import de.levinwinter.structure.Student;
+import de.levinwinter.structure.Year;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.stage.DirectoryChooser;
